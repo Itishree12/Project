@@ -1,5 +1,5 @@
 # Project
-Project Work
+
 In this work Exploratory Data analysis has been done on 4 different data sets namely Yulu bicycle company dataset, Netflix dataset, 
 Walmart and Aeorofit Gym equipment dataset. 
 
